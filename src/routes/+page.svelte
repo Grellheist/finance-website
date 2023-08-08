@@ -1,8 +1,9 @@
 <script lang="ts">
 	export let data;
+    import "../app.css"
 </script>
 
-<p>
+<p class="bg-black text-sky-500">
 	{#await data.streamed.views}
 		Loading...
 	{:then views}

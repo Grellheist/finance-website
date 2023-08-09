@@ -1,5 +1,4 @@
 <script lang="ts">
-	export let data;
 	import '../app.css';
 </script>
 
@@ -15,16 +14,12 @@
 	</div>
 	<div class="pr-8 gap-12 flex items-center">
 		<a href="/">Placeholder</a>
-		<a href="/" class="rounded-lg ease-in-out duration-300 font-semibold py-3 px-6 text-white bg-green-700 hover:bg-green-800">Placeholder</a>
+		<a
+			href="/"
+			class="rounded-lg ease-in-out duration-300 font-semibold py-3 px-6 text-white bg-green-700 hover:bg-green-800"
+			>Placeholder</a
+		>
 	</div>
 </nav>
 
-<p class="bg-black text-sky-500">
-	{#await data.streamed.views}
-		Loading...
-	{:then views}
-		This page has been viewed {views} times.
-	{:catch error}
-		{error.message}
-	{/await}
-</p>
+<div class="h-screen" />

@@ -1,6 +1,6 @@
 <script lang="ts">
 	export let data;
-    import "../app.css"
+	import '../app.css';
 </script>
 
 <p class="bg-black text-sky-500">

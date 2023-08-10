@@ -22,4 +22,5 @@
 	</div>
 </nav>
 
-<div class="h-screen" />
+<div class="h-screen" id="about">
+</div>

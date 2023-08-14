@@ -76,14 +76,15 @@
 			</div>
 		</div>
 		<div class="flex flex-col gap-6 justify-center items-center">
-			<a href="/" class=""> Placeholder </a>
-			<a href="/" class=""> Placeholder </a>
-			<a href="/" class=""> Placeholder </a>
-			<a href="/" class=""> Placeholder </a>
+			<a href="/" class="" on:click={() => (showMenu = false)}> Placeholder </a>
+			<a href="/" class="" on:click={() => (showMenu = false)}> Placeholder </a>
+			<a href="/" class="" on:click={() => (showMenu = false)}> Placeholder </a>
+			<a href="/" class="" on:click={() => (showMenu = false)}> Placeholder </a>
 		</div>
 		<div class="">
 			<a
 				href="/"
+				on:click={() => (showMenu = false)}
 				class="rounded-lg ease-in-out duration-300 w-full flex justify-center font-semibold py-3 px-6 text-white bg-green-700 hover:bg-green-800"
 				>Placeholder</a
 			>

@@ -5,14 +5,17 @@
 
 <Navbar />
 
-<div class="flex flex-col gap-12 items-center justify-center h-screen p-12" id="section-1">
-	<h1 class="text-4xl font-extrabold text-green-700">Finance Website</h1>
-	<p>Finance is really important, here is why:</p>
-	<p>
-		Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorem dicta quos magnam aliquam
-		pariatur asperiores rerum blanditiis, incidunt velit provident rem soluta alias inventore
-		delectus laborum, necessitatibus, ab omnis! Dignissimos.
-	</p>
+<div class="flex flex-col lg:flex-row gap-12 items-center justify-center p-12" id="section-1">
+	<div class="flex flex-col gap-12 items-center">
+		<h1 class="text-4xl font-extrabold text-green-700">Finance Website</h1>
+		<p>Finance is really important, here is why:</p>
+		<p>
+			Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorem dicta quos magnam aliquam
+			pariatur asperiores rerum blanditiis, incidunt velit provident rem soluta alias inventore
+			delectus laborum, necessitatibus, ab omnis! Dignissimos.
+		</p>
+	</div>
+	<img src="/images/graph.jpg" alt="" class="w-[640px]" />
 </div>
 <div class="flex flex-col gap-12 items-center justify-center h-screen p-12" id="section-2">
 	<h1 class="text-4xl font-extrabold text-green-700">section 2</h1>

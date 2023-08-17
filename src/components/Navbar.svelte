@@ -5,7 +5,7 @@
 	}
 </script>
 
-<nav class="select-none w-full flex justify-between items-center h-28 z-50" class:open={showMenu}>
+<nav class="bg-[#EDFDF2] select-none w-full flex justify-between items-center h-28 z-50" class:open={showMenu}>
 	<a href="/">
 		<h1 class="text-lg pl-4 lg:pl-8">Finance Website</h1>
 	</a>
@@ -45,7 +45,7 @@
 		</button>
 	</div>
 	<div
-		class="absolute z-30 top-0 inset-x-0 p-2 flex-col gap-6 transition transform origin-top-right bg-white lg:hidden opacity-100 scale-100 {showMenu
+		class="bg-[#EDFDF2] absolute z-30 top-0 inset-x-0 p-2 flex-col gap-6 transition transform origin-top-right lg:hidden opacity-100 scale-100 {showMenu
 			? 'flex'
 			: 'hidden'}"
 	>

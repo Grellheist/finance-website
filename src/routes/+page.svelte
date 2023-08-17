@@ -16,13 +16,13 @@
 			delectus laborum, necessitatibus, ab omnis! Dignissimos.
 		</p>
 	</div>
-	<img src="/images/graph.jpg" alt="" class="w-[640px]" />
+	<img src="/images/graph.jpg" alt="" class="w-[640px] rounded" />
 </div>
 <ScrollToTop/>
 <div class="flex flex-col gap-12 items-center justify-center p-12 mb-12 bg-[#FEFDF9]" id="section-2">
 	<h1 class="text-4xl font-extrabold text-green-700">section 2</h1>
 	<div class="flex flex-col lg:flex-row gap-12 items-center">
-		<img src="/images/graph-2.jpg" alt="" class="w-[640px]" />
+		<img src="/images/graph-2.jpg" alt="" class="w-[640px] rounded" />
 		<div class="flex-col gap-12 flex items-center">
 			<p>Finance is really important, here is why:</p>
 			<p>

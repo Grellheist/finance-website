@@ -45,7 +45,7 @@
 		</button>
 	</div>
 	<div
-		class="bg-[#EDFDF2] absolute z-30 top-0 inset-x-0 p-2 flex-col gap-6 transition transform origin-top-right lg:hidden opacity-100 scale-100 {showMenu
+		class="bg-[#EDFDF2] pb-12 shadow-sm shadow-black absolute z-30 top-0 inset-x-0 p-2 flex-col gap-6 transition transform origin-top-right lg:hidden opacity-100 scale-100 {showMenu
 			? 'flex'
 			: 'hidden'}"
 	>

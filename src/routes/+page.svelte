@@ -5,7 +5,7 @@
 
 <Navbar />
 
-<div class="flex flex-col lg:flex-row gap-12 items-center justify-center p-12" id="section-1">
+<div class="flex flex-col lg:flex-row gap-12 items-center justify-center p-12 mb-12" id="section-1">
 	<div class="flex flex-col gap-12 items-center">
 		<h1 class="text-4xl font-extrabold text-green-700">Finance Website</h1>
 		<p>Finance is really important, here is why:</p>
@@ -17,30 +17,31 @@
 	</div>
 	<img src="/images/graph.jpg" alt="" class="w-[640px]" />
 </div>
-<div class="flex flex-col gap-12 items-center justify-center h-screen p-12" id="section-2">
+<div class="flex flex-col gap-12 items-center justify-center p-12 mb-12" id="section-2">
 	<h1 class="text-4xl font-extrabold text-green-700">section 2</h1>
-	<p>Finance is really important, here is why:</p>
-	<p>
-		Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorem dicta quos magnam aliquam
-		pariatur asperiores rerum blanditiis, incidunt velit provident rem soluta alias inventore
-		delectus laborum, necessitatibus, ab omnis! Dignissimos.
-	</p>
+	<div class="flex flex-col lg:flex-row gap-12 items-center">
+		<img src="/images/graph-2.jpg" alt="" class="w-[640px]" />
+		<div class="flex-col gap-12 flex items-center">
+			<p>Finance is really important, here is why:</p>
+			<p>
+				Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorem dicta quos magnam aliquam
+				pariatur asperiores rerum blanditiis, incidunt velit provident rem soluta alias inventore
+				delectus laborum, necessitatibus, ab omnis! Dignissimos.
+			</p>
+		</div>
+	</div>
 </div>
 <div class="flex flex-col gap-12 items-center justify-center h-screen p-12" id="section-3">
 	<h1 class="text-4xl font-extrabold text-green-700">section 3</h1>
 	<p>Finance is really important, here is why:</p>
 	<p>
-		Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorem dicta quos magnam aliquam
-		pariatur asperiores rerum blanditiis, incidunt velit provident rem soluta alias inventore
-		delectus laborum, necessitatibus, ab omnis! Dignissimos.
+		reviews
 	</p>
 </div>
 <div class="flex flex-col gap-12 items-center justify-center h-screen p-12" id="section-4">
 	<h1 class="text-4xl font-extrabold text-green-700">section 4</h1>
 	<p>Finance is really important, here is why:</p>
 	<p>
-		Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorem dicta quos magnam aliquam
-		pariatur asperiores rerum blanditiis, incidunt velit provident rem soluta alias inventore
-		delectus laborum, necessitatibus, ab omnis! Dignissimos.
+		prices
 	</p>
 </div>

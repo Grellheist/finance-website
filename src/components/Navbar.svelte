@@ -10,10 +10,10 @@
 		<h1 class="text-lg pl-4 lg:pl-8">Finance Website</h1>
 	</a>
 	<div class="hidden lg:flex gap-12">
-		<a href="/" class=""> Placeholder </a>
-		<a href="/" class=""> Placeholder </a>
-		<a href="/" class=""> Placeholder </a>
-		<a href="/" class=""> Placeholder </a>
+		<a href="#section-1" class=""> Placeholder </a>
+		<a href="#section-2" class=""> Placeholder </a>
+		<a href="#section-3" class=""> Placeholder </a>
+		<a href="#section-4" class=""> Placeholder </a>
 	</div>
 	<div class="hidden lg:flex pr-8 gap-12 items-center">
 		<a href="/">Placeholder</a>
@@ -76,10 +76,10 @@
 			</div>
 		</div>
 		<div class="flex flex-col gap-6 justify-center items-center">
-			<a href="/" class="" on:click={() => (showMenu = false)}> Placeholder </a>
-			<a href="/" class="" on:click={() => (showMenu = false)}> Placeholder </a>
-			<a href="/" class="" on:click={() => (showMenu = false)}> Placeholder </a>
-			<a href="/" class="" on:click={() => (showMenu = false)}> Placeholder </a>
+			<a href="#section-1" class="" on:click={() => (showMenu = false)}> Placeholder </a>
+			<a href="#section-2" class="" on:click={() => (showMenu = false)}> Placeholder </a>
+			<a href="#section-3" class="" on:click={() => (showMenu = false)}> Placeholder </a>
+			<a href="#section-4" class="" on:click={() => (showMenu = false)}> Placeholder </a>
 		</div>
 		<div class="">
 			<a

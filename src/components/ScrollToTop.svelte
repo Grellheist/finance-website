@@ -25,7 +25,7 @@
 	role="button"
 	tabindex="0"
 	on:keypress={goStart}
-	class="fixed right-[20px] bottom-[20px] bg-black text-white p-2"
+	class="fixed rounded-full right-[20px] bottom-[20px] bg-black text-white p-2"
 	on:click={goStart}
 	class:hidden
 >

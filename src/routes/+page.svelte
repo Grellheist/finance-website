@@ -8,7 +8,7 @@
 
 <div
 	class="flex flex-col lg:flex-row gap-12 items-center justify-center p-12 mb-12 bg-[#EDFDF2]"
-	id="section-1"
+	id="millionare"
 >
 	<div class="flex flex-col gap-12 items-center">
 		<h1
@@ -78,7 +78,7 @@
 <ScrollToTop />
 <div
 	class="flex flex-col gap-12 items-center justify-center p-12 mb-12 bg-[#FEFDF9]"
-	id="section-2"
+	id="tutorial"
 >
 	<div class="flex flex-col lg:flex-row gap-12 items-center">
 		<img src="/images/graph-2.jpg" alt="" class="w-[640px] rounded" />

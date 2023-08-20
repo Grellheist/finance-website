@@ -10,17 +10,17 @@
 		<h1 class="text-lg pl-4 lg:pl-8">Finance Website</h1>
 	</a>
 	<div class="hidden lg:flex gap-12">
-		<a href="#section-1" class=""> Placeholder </a>
-		<a href="#section-2" class=""> Placeholder </a>
-		<a href="#section-3" class=""> Placeholder </a>
-		<a href="#section-4" class=""> Placeholder </a>
+		<a href="#millionare" class=""> Become a Millionare </a>
+		<a href="#tutorial" class=""> How to make money </a>
+		<a href="#reviews" class=""> Our reviews </a>
+		<a href="#prices" class=""> Our prices </a>
 	</div>
 	<div class="hidden lg:flex pr-8 gap-12 items-center">
-		<a href="/">Placeholder</a>
+		<a href="/">Login</a>
 		<a
 			href="/"
 			class="rounded-lg ease-in-out duration-300 font-semibold py-3 px-6 text-white bg-green-700 hover:bg-green-800"
-			>Placeholder</a
+			>Register</a
 		>
 	</div>
 	<div
@@ -76,17 +76,17 @@
 			</div>
 		</div>
 		<div class="flex flex-col gap-6 justify-center items-center">
-			<a href="#section-1" class="" on:click={() => (showMenu = false)}> Placeholder </a>
-			<a href="#section-2" class="" on:click={() => (showMenu = false)}> Placeholder </a>
-			<a href="#section-3" class="" on:click={() => (showMenu = false)}> Placeholder </a>
-			<a href="#section-4" class="" on:click={() => (showMenu = false)}> Placeholder </a>
+			<a href="#millionare" class="" on:click={() => (showMenu = false)}> Become a Millionare </a>
+			<a href="#tutorial" class="" on:click={() => (showMenu = false)}> How to make money </a>
+			<a href="#reviews" class="" on:click={() => (showMenu = false)}> Our reviews </a>
+			<a href="#prices" class="" on:click={() => (showMenu = false)}> Our prices </a>
 		</div>
 		<div class="">
 			<a
 				href="/"
 				on:click={() => (showMenu = false)}
 				class="rounded-lg ease-in-out duration-300 w-full flex justify-center font-semibold py-3 px-6 text-white bg-green-700 hover:bg-green-800"
-				>Placeholder</a
+				>Start now!</a
 			>
 		</div>
 	</div>

@@ -175,7 +175,7 @@
 	</div>
 </div>
 <div
-	class="flex flex-col gap-12 items-center justify-center h-screen p-12 bg-[#EDFDF2]"
+	class="flex flex-col gap-12 items-center justify-center p-12 bg-[#EDFDF2]"
 	id="reviews"
 >
 	<h2
@@ -183,29 +183,29 @@
 	>
 		What people think of us
 	</h2>
-	<div class="flex max-w-5xl mx-auto gap-12">
-		<div class="bg-green-700 p-8 rounded-xl mix-blend-luminosity">
+	<div class="flex flex-col lg:flex-row max-w-5xl mx-auto gap-12 text-center">
+		<div class="bg-green-200 p-8 rounded-xl space-y-12 max-w-[300px]">
 			<img src="/testimonials/kylen.jpg" alt="" class="h-20 mx-auto rounded-full" />
 			<h4 class="uppercase text-xl font-bold">Kylen Frerking</h4>
-			<p class="text-sm leading-7 my-3 font-light opacity-50">
+			<p class="text-sm leading-7 my-3 font-light">
 				Ever since I've started using this website I've been more careful with my spendings. It's
 				awesome!
 			</p>
 		</div>
-		<div class="bg-green-700 p-8 rounded-xl mix-blend-luminosity">
+		<div class="bg-green-200 p-8 rounded-xl space-y-12 max-w-[300px]">
 			<img src="/testimonials/clare.jpg" alt="" class="h-20 mx-auto rounded-full" />
 			<h4 class="uppercase text-xl font-bold">Clare Wedi</h4>
-			<p class="text-sm leading-7 my-3 font-light opacity-50">
+			<p class="text-sm leading-7 my-3 font-light">
 				I have been making more money and I'm almost a rich person. It's all thanks to this website!
 				It actually made me earn more!
 			</p>
 		</div>
-		<div class="bg-green-700 p-8 rounded-xl mix-blend-luminosity">
+		<div class="bg-green-200 p-8 rounded-xl space-y-12 max-w-[300px]">
 			<img src="/testimonials/darren.jpg" alt="" class="h-20 mx-auto rounded-full" />
 			<h4 class="uppercase text-xl font-bold">Darren Kremer</h4>
-			<p class="text-sm leading-7 my-3 font-light opacity-50">
+			<p class="text-sm leading-7 my-3 font-light">
 				One day I saw a homeless guy on the street. I told him I use this website and he gave me
-				money. It's awesome!
+				money. Splendid.
 			</p>
 		</div>
 	</div>

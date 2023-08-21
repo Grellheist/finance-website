@@ -12,14 +12,14 @@
 >
 	<div class="flex flex-col gap-12 items-center">
 		<h1
-			class="max-w-[590px] text-base-text text-4xl font-semibold md:leading-[64px] text-center tracking-tight sm:text-5xl lg:max-w-[460px] lg:text-5xl lg:text-left lg:m-0 xl:max-w-[550px] xl:text-6xl"
+			class="cursor-text max-w-[590px] text-base-text text-4xl font-semibold md:leading-[64px] text-center tracking-tight sm:text-5xl lg:max-w-[460px] lg:text-5xl lg:text-left lg:m-0 xl:max-w-[550px] xl:text-6xl"
 		>
 			You too can become a <span class="text-transparent bg-clip-text z-20 bg-green-700"
 				>millionare</span
 			>! <s>Maybe</s>
 		</h1>
 		<p
-			class="mt-6 mb-8 max-w-[400px] text-base font-serif text-center font-light text-gray-600 lg:text-left lg:mx-0 lg:max-w-[520px]"
+			class="cursor-text mt-6 mb-8 max-w-[400px] text-base font-serif text-center font-light text-gray-600 lg:text-left lg:mx-0 lg:max-w-[520px]"
 		>
 			Not by using our website, but if you try hard enough and invest in the correct stuff, who
 			knows.
@@ -46,7 +46,7 @@
 						</clipPath>
 					</defs>
 				</svg>
-				<p class="ml-5 font-light font-serif text-[#454843]">Our website is safe and secure</p>
+				<p class="cursor-text ml-5 font-light font-serif text-[#454843]">Our website is safe and secure</p>
 			</div>
 			<div class="flex items-center w-64 lg:w-72 h-20">
 				<svg
@@ -69,7 +69,7 @@
 						</clipPath>
 					</defs>
 				</svg>
-				<p class="ml-5 font-light font-serif text-[#454843]">You can access anywhere and anytime</p>
+				<p class="cursor-text ml-5 font-light font-serif text-[#454843]">You can access anywhere and anytime</p>
 			</div>
 		</div>
 	</div>
@@ -84,7 +84,7 @@
 		<img src="/images/graph-2.jpg" alt="" class="w-[640px] rounded" />
 		<div class="flex-col gap-12 flex items-center">
 			<h2
-				class="max-w-[590px] text-base-text text-4xl font-semibold md:leading-[64px] text-center tracking-tight sm:text-5xl lg:max-w-[460px] lg:text-5xl lg:text-left lg:m-0 xl:max-w-[550px] xl:text-6xl"
+				class="cursor-text max-w-[590px] text-base-text text-4xl font-semibold md:leading-[64px] text-center tracking-tight sm:text-5xl lg:max-w-[460px] lg:text-5xl lg:text-left lg:m-0 xl:max-w-[550px] xl:text-6xl"
 			>
 				Want to become a rich person? Here's how
 			</h2>
@@ -99,12 +99,12 @@
 						>
 						<div>
 							<p
-								class="text-lg font-serif sm:text-xl max-w-[300px] text-base-text font-semibold md:max-w-[222px] tracking-wide mb-2 leading-6"
+								class="cursor-text text-lg font-serif sm:text-xl max-w-[300px] text-base-text font-semibold md:max-w-[222px] tracking-wide mb-2 leading-6"
 							>
 								Earn a lot of money
 							</p>
 							<span
-								class="font-light font-serif sm:max-w-[400px] tracking-wide text-base block text-[#5C5F5A]"
+								class="cursor-text font-light font-serif sm:max-w-[400px] tracking-wide text-base block text-[#5C5F5A]"
 								>Honestly I dunno how you would do that but it is within the realm of possibility.
 								So just do it.</span
 							>
@@ -119,12 +119,12 @@
 						>
 						<div>
 							<p
-								class="text-lg font-serif sm:text-xl max-w-[300px] text-base-text font-semibold md:max-w-[222px] tracking-wide mb-2 leading-6"
+								class="cursor-text text-lg font-serif sm:text-xl max-w-[300px] text-base-text font-semibold md:max-w-[222px] tracking-wide mb-2 leading-6"
 							>
 								Don't spend more than you earn
 							</p>
 							<span
-								class="font-light font-serif sm:max-w-[400px] tracking-wide text-base block text-[#5C5F5A]"
+								class="cursor-text font-light font-serif sm:max-w-[400px] tracking-wide text-base block text-[#5C5F5A]"
 								>I mean this is pretty straightforward right?</span
 							>
 						</div>
@@ -138,12 +138,12 @@
 						>
 						<div>
 							<p
-								class="text-lg font-serif sm:text-xl max-w-[300px] text-base-text font-semibold md:max-w-[222px] tracking-wide mb-2 leading-6"
+								class="cursor-text text-lg font-serif sm:text-xl max-w-[300px] text-base-text font-semibold md:max-w-[222px] tracking-wide mb-2 leading-6"
 							>
 								Invest your money
 							</p>
 							<span
-								class="font-light font-serif sm:max-w-[400px] tracking-wide text-base block text-[#5C5F5A]"
+								class="cursor-text font-light font-serif sm:max-w-[400px] tracking-wide text-base block text-[#5C5F5A]"
 								>Investing is just like buying a money printer. You can make your money become more
 								money. Please don't buy a money printer.</span
 							>
@@ -158,12 +158,12 @@
 						>
 						<div>
 							<p
-								class="text-lg font-serif sm:text-xl max-w-[300px] text-base-text font-semibold md:max-w-[222px] tracking-wide mb-2 leading-6"
+								class="cursor-text text-lg font-serif sm:text-xl max-w-[300px] text-base-text font-semibold md:max-w-[222px] tracking-wide mb-2 leading-6"
 							>
 								Use a money planner
 							</p>
 							<span
-								class="font-light font-serif sm:max-w-[400px] tracking-wide text-base block text-[#5C5F5A]"
+								class="cursor-text font-light font-serif sm:max-w-[400px] tracking-wide text-base block text-[#5C5F5A]"
 								>You're basically assuming total control over your money by doing this (real
 								advice).</span
 							>
@@ -179,31 +179,31 @@
 	id="reviews"
 >
 	<h2
-		class="max-w-[590px] text-base-text text-4xl font-semibold md:leading-[64px] tracking-tight sm:text-5xl lg:max-w-[460px] lg:text-5xl lg:text-left lg:m-0 xl:max-w-[550px] xl:text-6xl"
+		class="cursor-text max-w-[590px] text-base-text text-4xl font-semibold md:leading-[64px] tracking-tight sm:text-5xl lg:max-w-[460px] lg:text-5xl lg:text-left lg:m-0 xl:max-w-[550px] xl:text-6xl"
 	>
 		What users think of us
 	</h2>
 	<div class="flex flex-col lg:flex-row max-w-5xl mx-auto gap-12 text-center">
 		<div class="bg-green-200 p-8 rounded-xl space-y-12 max-w-[300px]">
 			<img src="/testimonials/kylen.jpg" alt="" class="h-20 mx-auto rounded-full" />
-			<h4 class="uppercase text-xl font-bold">Kylen Frerking</h4>
-			<p class="text-md leading-7 my-3 font-light">
+			<h4 class="cursor-text uppercase text-xl font-bold">Kylen Frerking</h4>
+			<p class="cursor-text text-md leading-7 my-3 font-light">
 				Ever since I've started using this website I've been more careful with my spendings. It's
 				awesome!
 			</p>
 		</div>
 		<div class="bg-green-200 p-8 rounded-xl space-y-12 max-w-[300px]">
 			<img src="/testimonials/clare.jpg" alt="" class="h-20 mx-auto rounded-full" />
-			<h4 class="uppercase text-xl font-bold">Clare Wedi</h4>
-			<p class="text-md leading-7 my-3 font-light">
+			<h4 class="cursor-text uppercase text-xl font-bold">Clare Wedi</h4>
+			<p class="cursor-text text-md leading-7 my-3 font-light">
 				I have been making more money and I'm almost a rich person. It's all thanks to this website!
 				It actually made me earn more!
 			</p>
 		</div>
 		<div class="bg-green-200 p-8 rounded-xl space-y-12 max-w-[300px]">
 			<img src="/testimonials/darren.jpg" alt="" class="h-20 mx-auto rounded-full" />
-			<h4 class="uppercase text-xl font-bold">Darren Kremer</h4>
-			<p class="text-md leading-7 my-3 font-light">
+			<h4 class="cursor-text uppercase text-xl font-bold">Darren Kremer</h4>
+			<p class="cursor-text text-md leading-7 my-3 font-light">
 				One day I saw a homeless guy on the street. I told him I use this website and he gave me
 				money. Splendid.
 			</p>
@@ -215,7 +215,7 @@
 	id="prices"
 >
 	<h1
-		class="max-w-[590px] text-base-text text-4xl font-semibold md:leading-[64px] text-center tracking-tight sm:text-5xl lg:max-w-[460px] lg:text-5xl lg:text-left lg:m-0 xl:max-w-[550px] xl:text-6xl"
+		class="cursor-text max-w-[590px] text-base-text text-4xl font-semibold md:leading-[64px] text-center tracking-tight sm:text-5xl lg:max-w-[460px] lg:text-5xl lg:text-left lg:m-0 xl:max-w-[550px] xl:text-6xl"
 	>
 		Our prices
 	</h1>

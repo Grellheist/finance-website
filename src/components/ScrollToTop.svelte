@@ -25,9 +25,9 @@
 	role="button"
 	tabindex="0"
 	on:keypress={goStart}
-	class="fixed rounded-full right-[20px] bottom-[20px] bg-black text-white p-2"
+	class=""
 	on:click={goStart}
 	class:hidden
 >
-	Back To Start
+	<img src="/assets/up-arrow.svg" alt="" class="fixed select-none right-[20px] bottom-[20px] w-12">
 </div>

@@ -5,18 +5,46 @@
 	}
 </script>
 
-<nav class="bg-[#EDFDF2] select-none w-full flex justify-between items-center h-28 z-50" class:open={showMenu}>
+<nav
+	class="bg-[#EDFDF2] select-none w-full flex justify-between items-center h-28 z-50"
+	class:open={showMenu}
+>
 	<a href="/">
 		<h1 class="text-lg pl-4 lg:pl-8">Finance Website</h1>
 	</a>
 	<div class="hidden lg:flex gap-12">
-		<a href="#millionare" class=""> Become a Millionare </a>
-		<a href="#tutorial" class=""> How to make money </a>
-		<a href="#reviews" class=""> Our reviews </a>
-		<a href="#prices" class=""> Our prices </a>
+		<a href="#millionare" class="group hover:text-green-700 transition duration-300 font-semibold">
+			Become a Millionare
+			<span
+				class="block max-w-0 group-hover:max-w-full rounded-full transition-all duration-200 h-0.5 bg-green-700"
+			/>
+		</a>
+		<a href="#tutorial" class="group hover:text-green-700 transition duration-300 font-semibold">
+			How to make money
+			<span
+				class="block max-w-0 group-hover:max-w-full rounded-full transition-all duration-200 h-0.5 bg-green-700"
+			/>
+		</a>
+		<a href="#reviews" class="group hover:text-green-700 transition duration-300 font-semibold">
+			Our reviews
+			<span
+				class="block max-w-0 group-hover:max-w-full rounded-full transition-all duration-200 h-0.5 bg-green-700"
+			/>
+		</a>
+		<a href="#prices" class="group hover:text-green-700 transition duration-300 font-semibold">
+			Our prices
+			<span
+				class="block max-w-0 group-hover:max-w-full rounded-full transition-all duration-200 h-0.5 bg-green-700"
+			/>
+		</a>
 	</div>
 	<div class="hidden lg:flex pr-8 gap-12 items-center">
-		<a href="/">Login</a>
+		<a href="/" class="group hover:text-green-700 transition duration-300 font-semibold"
+			>Login
+			<span
+				class="block max-w-0 group-hover:max-w-full rounded-full transition-all duration-200 h-0.5 bg-green-700"
+			/>
+		</a>
 		<a
 			href="/"
 			class="rounded-lg ease-in-out duration-300 font-semibold py-3 px-6 text-white bg-green-700 hover:bg-green-800"

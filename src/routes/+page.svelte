@@ -46,9 +46,7 @@
 						</clipPath>
 					</defs>
 				</svg>
-				<p class="ml-5 font-light font-serif text-[#454843]">
-					Our website is safe and secure
-				</p>
+				<p class="ml-5 font-light font-serif text-[#454843]">Our website is safe and secure</p>
 			</div>
 			<div class="flex items-center w-64 lg:w-72 h-20">
 				<svg
@@ -71,19 +69,14 @@
 						</clipPath>
 					</defs>
 				</svg>
-				<p class="ml-5 font-light font-serif text-[#454843]">
-					You can access anywhere and anytime
-				</p>
+				<p class="ml-5 font-light font-serif text-[#454843]">You can access anywhere and anytime</p>
 			</div>
 		</div>
 	</div>
 	<img src="/images/graph.jpg" alt="" class="w-[640px] rounded" />
 </div>
 <ScrollToTop />
-<div
-	class="flex flex-col gap-12 items-center justify-center p-12 mb-12 bg-[#FEFDF9]"
-	id="tutorial"
->
+<div class="flex flex-col gap-12 items-center justify-center p-12 mb-12 bg-[#FEFDF9]" id="tutorial">
 	<div class="flex flex-col lg:flex-row gap-12 items-center">
 		<img src="/images/graph-2.jpg" alt="" class="w-[640px] rounded" />
 		<div class="flex-col gap-12 flex items-center">

@@ -16,25 +16,25 @@
 		<a href="#millionare" class="group hover:text-green-700 transition duration-300 font-semibold">
 			Become a Millionare
 			<span
-				class="block max-w-0 group-hover:max-w-full rounded-full transition-all duration-200 h-0.5 bg-green-700"
+				class="block max-w-0 group-hover:max-w-full rounded-full transition-all duration-300 h-0.5 bg-green-700"
 			/>
 		</a>
 		<a href="#tutorial" class="group hover:text-green-700 transition duration-300 font-semibold">
 			How to make money
 			<span
-				class="block max-w-0 group-hover:max-w-full rounded-full transition-all duration-200 h-0.5 bg-green-700"
+				class="block max-w-0 group-hover:max-w-full rounded-full transition-all duration-300 h-0.5 bg-green-700"
 			/>
 		</a>
 		<a href="#reviews" class="group hover:text-green-700 transition duration-300 font-semibold">
 			Our reviews
 			<span
-				class="block max-w-0 group-hover:max-w-full rounded-full transition-all duration-200 h-0.5 bg-green-700"
+				class="block max-w-0 group-hover:max-w-full rounded-full transition-all duration-300 h-0.5 bg-green-700"
 			/>
 		</a>
 		<a href="#prices" class="group hover:text-green-700 transition duration-300 font-semibold">
 			Our prices
 			<span
-				class="block max-w-0 group-hover:max-w-full rounded-full transition-all duration-200 h-0.5 bg-green-700"
+				class="block max-w-0 group-hover:max-w-full rounded-full transition-all duration-300 h-0.5 bg-green-700"
 			/>
 		</a>
 	</div>
@@ -42,7 +42,7 @@
 		<a href="/" class="group hover:text-green-700 transition duration-300 font-semibold"
 			>Login
 			<span
-				class="block max-w-0 group-hover:max-w-full rounded-full transition-all duration-200 h-0.5 bg-green-700"
+				class="block max-w-0 group-hover:max-w-full rounded-full transition-all duration-300 h-0.5 bg-green-700"
 			/>
 		</a>
 		<a

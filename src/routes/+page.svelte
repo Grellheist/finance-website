@@ -106,7 +106,7 @@
 							<span
 								class="font-light font-serif sm:max-w-[400px] tracking-wide text-base block text-[#5C5F5A]"
 								>Honestly I dunno how you would do that but it is within the realm of possibility.
-								So just do it.</span
+								So just do it (it's a joke you should still invest even if you don't earn a lot).</span
 							>
 						</div>
 					</div>

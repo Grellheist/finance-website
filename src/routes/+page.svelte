@@ -19,7 +19,7 @@
 			>! <s>Maybe</s>
 		</h1>
 		<p
-			class="mt-6 mb-8 max-w-[400px] text-base font-serif text-center font-light text-[#454843] lg:text-left lg:mx-0 lg:max-w-[520px]"
+			class="mt-6 mb-8 max-w-[400px] text-base font-serif text-center font-light text-gray-600 lg:text-left lg:mx-0 lg:max-w-[520px]"
 		>
 			Not by using our website, but if you try hard enough and invest in the correct stuff, who
 			knows.
@@ -173,15 +173,15 @@
 </div>
 <div class="flex flex-col gap-12 items-center justify-center p-12 bg-[#EDFDF2]" id="reviews">
 	<h2
-		class="max-w-[590px] text-base-text text-4xl font-semibold md:leading-[64px] text-center tracking-tight sm:text-5xl lg:max-w-[460px] lg:text-5xl lg:text-left lg:m-0 xl:max-w-[550px] xl:text-6xl"
+		class="max-w-[590px] text-base-text text-4xl font-semibold md:leading-[64px] tracking-tight sm:text-5xl lg:max-w-[460px] lg:text-5xl lg:text-left lg:m-0 xl:max-w-[550px] xl:text-6xl"
 	>
-		What people think of us
+		What users think of us
 	</h2>
 	<div class="flex flex-col lg:flex-row max-w-5xl mx-auto gap-12 text-center">
 		<div class="bg-green-200 p-8 rounded-xl space-y-12 max-w-[300px]">
 			<img src="/testimonials/kylen.jpg" alt="" class="h-20 mx-auto rounded-full" />
 			<h4 class="uppercase text-xl font-bold">Kylen Frerking</h4>
-			<p class="text-sm leading-7 my-3 font-light">
+			<p class="text-md leading-7 my-3 font-light">
 				Ever since I've started using this website I've been more careful with my spendings. It's
 				awesome!
 			</p>
@@ -189,7 +189,7 @@
 		<div class="bg-green-200 p-8 rounded-xl space-y-12 max-w-[300px]">
 			<img src="/testimonials/clare.jpg" alt="" class="h-20 mx-auto rounded-full" />
 			<h4 class="uppercase text-xl font-bold">Clare Wedi</h4>
-			<p class="text-sm leading-7 my-3 font-light">
+			<p class="text-md leading-7 my-3 font-light">
 				I have been making more money and I'm almost a rich person. It's all thanks to this website!
 				It actually made me earn more!
 			</p>
@@ -197,7 +197,7 @@
 		<div class="bg-green-200 p-8 rounded-xl space-y-12 max-w-[300px]">
 			<img src="/testimonials/darren.jpg" alt="" class="h-20 mx-auto rounded-full" />
 			<h4 class="uppercase text-xl font-bold">Darren Kremer</h4>
-			<p class="text-sm leading-7 my-3 font-light">
+			<p class="text-md leading-7 my-3 font-light">
 				One day I saw a homeless guy on the street. I told him I use this website and he gave me
 				money. Splendid.
 			</p>
@@ -208,6 +208,10 @@
 	class="flex flex-col gap-12 items-center justify-center h-screen p-12 bg-[#FEFDF9]"
 	id="prices"
 >
-	<h1 class="text-4xl font-extrabold text-green-700">Our prices</h1>
+	<h1
+		class="max-w-[590px] text-base-text text-4xl font-semibold md:leading-[64px] text-center tracking-tight sm:text-5xl lg:max-w-[460px] lg:text-5xl lg:text-left lg:m-0 xl:max-w-[550px] xl:text-6xl"
+	>
+		Our prices
+	</h1>
 	<p>prices</p>
 </div>

@@ -7,7 +7,7 @@
 <Navbar />
 
 <div
-	class="flex flex-col lg:flex-row gap-12 items-center justify-center p-12 mb-12 bg-[#EDFDF2]"
+	class="flex flex-col lg:flex-row gap-12 items-center justify-center p-12 mb-12 bg-[#EDFDF2] select-text"
 	id="millionare"
 >
 	<div class="flex flex-col gap-12 items-center">
@@ -76,7 +76,10 @@
 	<img src="/images/graph.jpg" alt="" class="w-[640px] rounded" />
 </div>
 <ScrollToTop />
-<div class="flex flex-col gap-12 items-center justify-center p-12 mb-12 bg-[#FEFDF9]" id="tutorial">
+<div
+	class="flex flex-col gap-12 items-center justify-center p-12 mb-12 bg-[#FEFDF9] select-text"
+	id="tutorial"
+>
 	<div class="flex flex-col lg:flex-row gap-12 items-center">
 		<img src="/images/graph-2.jpg" alt="" class="w-[640px] rounded" />
 		<div class="flex-col gap-12 flex items-center">

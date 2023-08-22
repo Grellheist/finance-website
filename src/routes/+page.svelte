@@ -222,7 +222,7 @@
 	<div class="rounded-md border border-green-700 h-[300px] w-[300px]">
 		<h4>Free</h4>
 		<ul>
-			<li>wow</li>
+			<li></li>
 		</ul>
 	</div>
 </div>

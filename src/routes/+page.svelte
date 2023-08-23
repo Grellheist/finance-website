@@ -220,5 +220,47 @@
 	>
 		Our prices
 	</h1>
-	<Prices name="teste" price={39} benefits={['1', '2']} notIncluded={['3', '4']} />
+	<div class="flex flex-col xl:flex-row gap-12">
+		<Prices
+			name="Free Plan"
+			price={0}
+			benefits={['Money planner']}
+			notIncluded={[
+				'Unlimited supply of "Good morning" messages',
+				'3 free memes everyday',
+				'7 tons of feathers delivered to you',
+				'I will come to your house once a day',
+				'Free girlfriend',
+				'Free gaming PC',
+				'You are going to be rich'
+			]}
+		/>
+		<Prices
+			name="Aristocrat Plan"
+			price={39}
+			benefits={[
+				'Money planner',
+				'Unlimited supply of "Good morning" messages',
+				'3 free memes everyday',
+				'7 tons of feathers delivered to you',
+				'I will come to your house once a day'
+			]}
+			notIncluded={['Free girlfriend', 'Free gaming PC', 'You are going to be rich']}
+		/>
+		<Prices
+			name="Jeff Bezos Plan"
+			price={999}
+			benefits={[
+				'Money planner',
+				'Unlimited supply of "Good morning" messages',
+				'3 free memes everyday',
+				'7 tons of feathers delivered to you',
+				'I will come to your house once a day',
+				'Free girlfriend',
+				'Free gaming PC',
+				'You are going to be rich'
+			]}
+			notIncluded={[]}
+		/>
+	</div>
 </div>

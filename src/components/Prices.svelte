@@ -4,7 +4,7 @@
 
 <div class="flex flex-col lg:flex-row gap-10">
 	<div class="w-full bg-green-200 p-10 rounded-xl shadow-xl">
-		<h4 class="mb-4 text-2xl font-medium text-gray-500">{name}</h4>
+		<h4 class="mb-4 text-2xl font-medium text-gray-600">{name}</h4>
 		<div class="flex items-baseline">
 			<span class="text-3xl font-semibold">$</span>
 			<span class="text-7xl font-extrabold">{price}</span>
@@ -20,8 +20,8 @@
 				</li>
 			{/each}
 			{#each [...notIncluded] as item}
-				<li class="flex space-x-3 line-through decoration-gray-500">
-					<i class="bi bi-check-circle-fill text-gray-500" />
+				<li class="flex space-x-3 line-through decoration-gray-700">
+					<i class="bi bi-check-circle-fill text-gray-700" />
 					<span class="leading-tight text-gray-600">
 						{item}
 					</span>

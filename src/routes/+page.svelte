@@ -3,6 +3,7 @@
 	import Navbar from '../components/Navbar.svelte';
 	import ScrollToTop from '../components/ScrollToTop.svelte';
 	import Prices from '../components/Prices.svelte';
+	import Reviews from '../components/Reviews.svelte';
 </script>
 
 <Navbar />
@@ -185,30 +186,21 @@
 		What users think of us
 	</h2>
 	<div class="flex flex-col lg:flex-row max-w-5xl mx-auto gap-12 text-center">
-		<div class="bg-green-200 p-8 rounded-xl space-y-12 max-w-[300px]">
-			<img src="/testimonials/kylen.jpg" alt="" class="h-20 mx-auto rounded-full" />
-			<h4 class="uppercase text-xl font-bold">Kylen Frerking</h4>
-			<p class="text-md leading-7 my-3 font-light">
-				Ever since I've started using this website I've been more careful with my spendings. It's
-				awesome!
-			</p>
-		</div>
-		<div class="bg-green-200 p-8 rounded-xl space-y-12 max-w-[300px]">
-			<img src="/testimonials/clare.jpg" alt="" class="h-20 mx-auto rounded-full" />
-			<h4 class="uppercase text-xl font-bold">Clare Wedi</h4>
-			<p class="text-md leading-7 my-3 font-light">
-				I have been making more money and I'm almost a rich person. It's all thanks to this website!
-				It actually made me earn more!
-			</p>
-		</div>
-		<div class="bg-green-200 p-8 rounded-xl space-y-12 max-w-[300px]">
-			<img src="/testimonials/darren.jpg" alt="" class="h-20 mx-auto rounded-full" />
-			<h4 class="uppercase text-xl font-bold">Darren Kremer</h4>
-			<p class="text-md leading-7 my-3 font-light">
-				One day I saw a homeless guy on the street. I told him I use this website and he gave me
-				money. Splendid.
-			</p>
-		</div>
+		<Reviews
+			src="/testimonials/kylen.jpg"
+			name="Kylen Frerking"
+			testimonial="Ever since I've started using this website I've been more careful with my spendings. It's awesome!"
+		/>
+		<Reviews
+			src="/testimonials/clare.jpg"
+			name="Clare Wedi"
+			testimonial="I have been making more money and I'm almost a rich person. It's all thanks to this website! It actually made me earn more!"
+		/>
+		<Reviews
+			src="/testimonials/darren.jpg"
+			name="Darren Kremer"
+			testimonial="One day I saw a homeless guy on the street. I told him I use this website and he gave me money. Splendid."
+		/>
 	</div>
 </div>
 <div

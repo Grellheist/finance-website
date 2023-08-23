@@ -25,9 +25,8 @@
 	role="button"
 	tabindex="0"
 	on:keypress={goStart}
-	class=""
 	on:click={goStart}
 	class:hidden
 >
-	<img src="/assets/up-arrow.svg" alt="" class="fixed select-none right-[20px] bottom-[20px] w-12">
+	<img src="/assets/up-arrow.svg" alt="" class="fixed select-none right-[20px] bottom-[20px] w-12 z-50">
 </div>

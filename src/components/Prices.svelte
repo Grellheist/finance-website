@@ -2,7 +2,7 @@
 	export let name: string, price: number, benefits: string[], notIncluded: string[];
 </script>
 
-<div class="w-full bg-green-200 p-10 rounded-xl shadow-xl hover:scale-105 transition duration-300 group">
+<div class="w-full bg-green-200 p-10 rounded-xl shadow-xl hover:scale-105 transition duration-300 group z-30">
 	<h4 class="mb-4 text-2xl font-medium text-gray-600 flex justify-center">{name}</h4>
 	<div class="flex items-baseline justify-center">
 		<span class="text-3xl font-semibold">$</span>

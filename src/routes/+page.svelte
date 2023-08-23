@@ -75,7 +75,15 @@
 			</div>
 		</div>
 	</div>
-	<img src="/assets/graph.webp" alt="Graph on tablet" class="w-[640px] rounded" loading="lazy" decoding="async" />
+	<img
+		src="/assets/graph.webp"
+		width="640"
+		height="427"
+		alt="Graph on tablet"
+		class="rounded"
+		loading="lazy"
+		decoding="async"
+	/>
 </div>
 <ScrollToTop />
 <div
@@ -83,7 +91,15 @@
 	id="tutorial"
 >
 	<div class="flex flex-col lg:flex-row gap-12 items-center">
-		<img src="/assets/graph-2.webp" alt="Graph on laptop" class="w-[640px] rounded" loading="lazy" decoding="async" />
+		<img
+			src="/assets/graph-2.webp"
+			alt="Graph on laptop"
+			width="640"
+			height="427"
+			class="rounded"
+			loading="lazy"
+			decoding="async"
+		/>
 		<div class="flex-col gap-12 flex items-center">
 			<h2
 				class="max-w-[590px] text-base-text text-4xl font-semibold md:leading-[64px] text-center tracking-tight sm:text-5xl lg:max-w-[460px] lg:text-5xl lg:text-left lg:m-0 xl:max-w-[550px] xl:text-6xl"

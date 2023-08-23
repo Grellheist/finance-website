@@ -10,7 +10,7 @@ href="https://akaunting.com/">Akaunting</a>).
 Alright listen. If you read through the actual words on the website you'll see
 it's kinda not serious. I understand that this is not very professional. This
 project is mine alone, and it will never be used for any type of profit. So it
-shouldn't affect anything of importance, other than being a little funny.
+shouldn't affect anything of importance, other than being a little silly.
 
 All this project does, is it shows that I can create a professional-looking
 website and make it functional. I just like having fun in the process.

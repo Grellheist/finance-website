@@ -3,11 +3,11 @@
 </script>
 
 <div class="w-full bg-green-200 p-10 rounded-xl shadow-xl hover:scale-105 transition duration-300 group">
-	<h4 class="mb-4 text-2xl font-medium text-gray-600">{name}</h4>
-	<div class="flex items-baseline">
+	<h4 class="mb-4 text-2xl font-medium text-gray-600 flex justify-center">{name}</h4>
+	<div class="flex items-baseline justify-center">
 		<span class="text-3xl font-semibold">$</span>
 		<span class="text-7xl font-extrabold">{price}</span>
-		<span class="text-xl ml-1 font-normal text-gray-500">/month</span>
+		<span class="text-xl ml-1 font-normal text-gray-600">/month</span>
 	</div>
 	<ul class="space-y-5 my-7">
 		{#each [...benefits] as benefit}

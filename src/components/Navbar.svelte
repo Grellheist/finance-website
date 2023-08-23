@@ -57,6 +57,7 @@
 		role="button"
 		tabindex="0"
 		on:keypress={toggleNavbar}
+        aria-label="Hamburger Button"
 	>
 		<button type="button" class="p-2 inline-flex text-green-700 focus:outline-none">
 			<svg

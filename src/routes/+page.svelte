@@ -75,7 +75,7 @@
 			</div>
 		</div>
 	</div>
-	<img src="/images/graph.jpg" alt="Graph on tablet" loading="lazy" class="w-[640px] rounded" />
+	<img src="/assets/graph.webp" alt="Graph on tablet" class="w-[640px] rounded" loading="lazy" decoding="async" />
 </div>
 <ScrollToTop />
 <div
@@ -83,7 +83,7 @@
 	id="tutorial"
 >
 	<div class="flex flex-col lg:flex-row gap-12 items-center">
-		<img src="/images/graph-2.jpg" alt="Graph on laptop" loading="lazy" class="w-[640px] rounded" />
+		<img src="/assets/graph-2.webp" alt="Graph on laptop" class="w-[640px] rounded" loading="lazy" decoding="async" />
 		<div class="flex-col gap-12 flex items-center">
 			<h2
 				class="max-w-[590px] text-base-text text-4xl font-semibold md:leading-[64px] text-center tracking-tight sm:text-5xl lg:max-w-[460px] lg:text-5xl lg:text-left lg:m-0 xl:max-w-[550px] xl:text-6xl"
@@ -187,17 +187,17 @@
 	</h2>
 	<div class="flex flex-col lg:flex-row max-w-5xl mx-auto gap-12 text-center">
 		<Reviews
-			src="/testimonials/kylen.jpg"
+			src="/assets/kylen.webp"
 			name="Kylen Frerking"
 			testimonial="Ever since I've started using this website I've been more careful with my spendings. It's awesome!"
 		/>
 		<Reviews
-			src="/testimonials/clare.jpg"
+			src="/assets/clare.webp"
 			name="Clare Wedi"
 			testimonial="I have been making more money and I'm almost a rich person. It's all thanks to this website! It actually made me earn more!"
 		/>
 		<Reviews
-			src="/testimonials/darren.jpg"
+			src="/assets/darren.webp"
 			name="Darren Kremer"
 			testimonial="One day I saw a homeless guy on the street. I told him I use this website and he gave me money. Splendid."
 		/>

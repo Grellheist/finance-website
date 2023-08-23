@@ -13,3 +13,7 @@ mine alone, and it will never be used for any type of profit.
 
 All this project does, is it shows that I can create a professional-looking
 website and make it functional. But I will have fun in the process lol.
+
+That being said, obviously the words written in this website in no way reflect
+how I view reality, and any "advice" in this website should NOT be taken
+serious.

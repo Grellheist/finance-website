@@ -16,4 +16,5 @@ website and make it functional. But I will have fun in the process lol.
 
 That being said, obviously the words written in this website in no way reflect
 how I view reality, and any "advice" in this website should NOT be taken
-serious.
+serious (except the fact that you should invest your money, but please be
+careful and know what you're doing).

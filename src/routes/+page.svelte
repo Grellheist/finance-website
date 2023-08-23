@@ -75,7 +75,7 @@
 			</div>
 		</div>
 	</div>
-	<img src="/images/graph.jpg" alt="" class="w-[640px] rounded" />
+	<img src="/images/graph.jpg" alt="Graph on tablet" loading="lazy" class="w-[640px] rounded" />
 </div>
 <ScrollToTop />
 <div
@@ -83,7 +83,7 @@
 	id="tutorial"
 >
 	<div class="flex flex-col lg:flex-row gap-12 items-center">
-		<img src="/images/graph-2.jpg" alt="" class="w-[640px] rounded" />
+		<img src="/images/graph-2.jpg" alt="Graph on laptop" loading="lazy" class="w-[640px] rounded" />
 		<div class="flex-col gap-12 flex items-center">
 			<h2
 				class="max-w-[590px] text-base-text text-4xl font-semibold md:leading-[64px] text-center tracking-tight sm:text-5xl lg:max-w-[460px] lg:text-5xl lg:text-left lg:m-0 xl:max-w-[550px] xl:text-6xl"

@@ -2,6 +2,7 @@
 	import '../app.css';
 	import Navbar from '../components/Navbar.svelte';
 	import ScrollToTop from '../components/ScrollToTop.svelte';
+	import Prices from '../components/Prices.svelte';
 </script>
 
 <Navbar />
@@ -210,50 +211,14 @@
 		</div>
 	</div>
 </div>
-<div class="flex flex-col gap-12 items-center justify-center p-12 bg-[#FEFDF9] select-none" id="prices">
-		<h1
-			class="max-w-[590px] text-base-text text-4xl font-semibold md:leading-[64px] text-center tracking-tight sm:text-5xl lg:max-w-[460px] lg:text-5xl lg:text-left lg:m-0 xl:max-w-[550px] xl:text-6xl"
-		>
-			Our prices
-		</h1>
-	<div class="flex flex-col lg:flex-row gap-10">
-		<div class="w-full bg-green-200 p-10 rounded-xl shadow-xl">
-			<h4 class="mb-4 text-2xl font-medium text-gray-500">Placeholder Plan</h4>
-			<div class="flex items-baseline">
-				<span class="text-3xl font-semibold">$</span>
-				<span class="text-7xl font-extrabold">39</span>
-				<span class="text-xl ml-1 font-normal text-gray-500">/month</span>
-			</div>
-			<ul class="space-y-5 my-7">
-				<li class="flex space-x-3">
-					<i class="bi bi-check-circle-fill text-green-700" />
-					<span class="leading-tight text-gray-600">placeholder</span>
-				</li>
-				<li class="flex space-x-3">
-					<i class="bi bi-check-circle-fill text-green-700" />
-					<span class="leading-tight text-gray-600">placeholder</span>
-				</li>
-				<li class="flex space-x-3">
-					<i class="bi bi-check-circle-fill text-green-700" />
-					<span class="leading-tight text-gray-600">placeholder</span>
-				</li>
-				<li class="flex space-x-3">
-					<i class="bi bi-check-circle-fill text-green-700" />
-					<span class="leading-tight text-gray-600">placeholder</span>
-				</li>
-				<li class="flex space-x-3">
-					<i class="bi bi-check-circle-fill text-green-700" />
-					<span class="leading-tight text-gray-600">placeholder</span>
-				</li>
-				<li class="flex space-x-3 line-through decoration-gray-500">
-					<i class="bi bi-check-circle-fill text-gray-500" />
-					<span class="leading-tight text-gray-600">placeholder</span>
-				</li>
-			</ul>
-			<button
-				class="bg-green-700 text-white transition-all hover:bg-green-800 rounded-lg text-lg p-2 w-full"
-				>Choose Plan</button
-			>
-		</div>
-	</div>
+<div
+	class="flex flex-col gap-12 items-center justify-center p-12 bg-[#FEFDF9] select-none"
+	id="prices"
+>
+	<h1
+		class="max-w-[590px] text-base-text text-4xl font-semibold md:leading-[64px] text-center tracking-tight sm:text-5xl lg:max-w-[460px] lg:text-5xl lg:text-left lg:m-0 xl:max-w-[550px] xl:text-6xl"
+	>
+		Our prices
+	</h1>
+	<Prices name="teste" price={39} benefits={['1', '2']} notIncluded={['3', '4']} />
 </div>

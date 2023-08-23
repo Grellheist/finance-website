@@ -3,7 +3,7 @@
 </script>
 
 <div class="w-full bg-green-200 p-10 rounded-xl shadow-xl hover:scale-105 transition duration-300 group">
-	<h4 class="mb-4 text-2xl font-medium text-gray-600 flex justify-center">{name}</h4>
+	<h5 class="mb-4 text-2xl font-medium text-gray-600 flex justify-center">{name}</h5>
 	<div class="flex items-baseline justify-center">
 		<span class="text-3xl font-semibold">$</span>
 		<span class="text-7xl font-extrabold">{price}</span>

@@ -57,9 +57,8 @@
 		role="button"
 		tabindex="0"
 		on:keypress={toggleNavbar}
-        aria-label="Hamburger Button"
 	>
-		<button type="button" class="p-2 inline-flex text-green-700 focus:outline-none">
+		<button aria-label="Hamburger Button" type="button" class="p-2 inline-flex text-green-700 focus:outline-none">
 			<svg
 				xmlns="http://www.w3.org/2000/svg"
 				fill="none"
@@ -89,7 +88,7 @@
 				tabindex="0"
 				on:keypress={toggleNavbar}
 			>
-				<button type="button" class="p-2 inline-flex focus:outline-none">
+				<button type="button" aria-label="Close Button" class="p-2 inline-flex focus:outline-none">
 					<svg
 						xmlns="http://www.w3.org/2000/svg"
 						fill="none"

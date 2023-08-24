@@ -5,6 +5,12 @@ usable, but simple), and the design will be inspired by similar websites (very
 inspired by <a href="https://www.organizze.com.br/">Organizze</a> and <a
 href="https://akaunting.com/">Akaunting</a>). 
 
+## About the name
+
+Turns out there is already a <a href="https://monnify.com/">Monnify</a> out
+there. This project is in no way related to them. I've came up with this name
+just to have a name on this project and that's all this is.
+
 ## Disclaimer
 
 Alright listen. If you read through the actual words on the website you'll see

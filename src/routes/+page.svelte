@@ -240,6 +240,7 @@
 				'I will come to your house once a day',
 				'Free girlfriend',
 				'Free gaming PC',
+				'Free real estate',
 				'You are going to be rich'
 			]}
 		/>
@@ -253,7 +254,12 @@
 				'7 tons of feathers delivered to you',
 				'I will come to your house once a day'
 			]}
-			notIncluded={['Free girlfriend', 'Free gaming PC', 'You are going to be rich']}
+			notIncluded={[
+				'Free girlfriend',
+				'Free gaming PC',
+				'Free real estate',
+				'You are going to be rich'
+			]}
 		/>
 		<Prices
 			name="Jeff Bezos Plan"
@@ -266,6 +272,7 @@
 				'I will come to your house once a day',
 				'Free girlfriend',
 				'Free gaming PC',
+				'Free real estate',
 				'You are going to be rich'
 			]}
 			notIncluded={[]}

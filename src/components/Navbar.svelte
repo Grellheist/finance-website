@@ -39,14 +39,14 @@
 		</a>
 	</div>
 	<div class="hidden lg:flex pr-8 gap-12 items-center">
-		<a href="/" class="group hover:text-green-700 transition duration-300 font-semibold"
+		<a href="/login" class="group hover:text-green-700 transition duration-300 font-semibold"
 			>Login
 			<span
 				class="block max-w-0 group-hover:max-w-full rounded-full transition-all duration-300 h-0.5 bg-green-700"
 			/>
 		</a>
 		<a
-			href="/"
+			href="/register"
 			class="rounded-lg ease-in-out duration-300 font-semibold py-3 px-6 text-white bg-green-700 hover:bg-green-800"
 			>Register</a
 		>
@@ -111,7 +111,7 @@
 		</div>
 		<div class="">
 			<a
-				href="/"
+				href="/register"
 				on:click={() => (showMenu = false)}
 				class="rounded-lg ease-in-out duration-300 w-full flex justify-center font-semibold py-3 px-6 text-white bg-green-700 hover:bg-green-800"
 				>Start now!</a

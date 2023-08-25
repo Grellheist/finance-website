@@ -10,29 +10,29 @@
 	class:open={showMenu}
 >
 	<a href="/">
-		<h1 class="text-lg pl-4 lg:pl-8">Finance Website</h1>
+		<img src="/assets/logo.webp" class="pl-4 xl:pl-8" alt="" />
 	</a>
 	<div class="hidden lg:flex gap-12">
 		<a href="#millionare" class="group hover:text-green-700 transition duration-300 font-semibold">
-			Become a Millionare
+			Be a Millionare
 			<span
 				class="block max-w-0 group-hover:max-w-full rounded-full transition-all duration-300 h-0.5 bg-green-700"
 			/>
 		</a>
 		<a href="#tutorial" class="group hover:text-green-700 transition duration-300 font-semibold">
-			How to make money
+			Making money
 			<span
 				class="block max-w-0 group-hover:max-w-full rounded-full transition-all duration-300 h-0.5 bg-green-700"
 			/>
 		</a>
 		<a href="#reviews" class="group hover:text-green-700 transition duration-300 font-semibold">
-			Our reviews
+			Reviews
 			<span
 				class="block max-w-0 group-hover:max-w-full rounded-full transition-all duration-300 h-0.5 bg-green-700"
 			/>
 		</a>
 		<a href="#prices" class="group hover:text-green-700 transition duration-300 font-semibold">
-			Our prices
+			Prices
 			<span
 				class="block max-w-0 group-hover:max-w-full rounded-full transition-all duration-300 h-0.5 bg-green-700"
 			/>
@@ -58,7 +58,11 @@
 		tabindex="0"
 		on:keypress={toggleNavbar}
 	>
-		<button aria-label="Hamburger Button" type="button" class="p-2 inline-flex text-green-700 focus:outline-none">
+		<button
+			aria-label="Hamburger Button"
+			type="button"
+			class="p-2 inline-flex text-green-700 focus:outline-none"
+		>
 			<svg
 				xmlns="http://www.w3.org/2000/svg"
 				fill="none"
@@ -79,7 +83,7 @@
 	>
 		<div class="flex items-center mt-7 justify-between">
 			<a href="/">
-				<h1 class="text-lg pl-4 lg:pl-8">Finance Website</h1>
+				<img src="/assets/logo.webp" class="pl-4" alt="" />
 			</a>
 			<div
 				class="lg:hidden pr-4 lg:pr-8 cursor-pointer"
@@ -104,10 +108,10 @@
 			</div>
 		</div>
 		<div class="flex flex-col gap-6 justify-center items-center">
-			<a href="#millionare" class="" on:click={() => (showMenu = false)}> Become a Millionare </a>
-			<a href="#tutorial" class="" on:click={() => (showMenu = false)}> How to make money </a>
-			<a href="#reviews" class="" on:click={() => (showMenu = false)}> Our reviews </a>
-			<a href="#prices" class="" on:click={() => (showMenu = false)}> Our prices </a>
+			<a href="#millionare" class="" on:click={() => (showMenu = false)}> Be a Millionare </a>
+			<a href="#tutorial" class="" on:click={() => (showMenu = false)}> Making money </a>
+			<a href="#reviews" class="" on:click={() => (showMenu = false)}> Reviews </a>
+			<a href="#prices" class="" on:click={() => (showMenu = false)}> Prices </a>
 		</div>
 		<div class="">
 			<a

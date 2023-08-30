@@ -4,7 +4,7 @@
 
 <div class="flex justify-center items-center h-screen bg-[#EDFDF2]">
 	<div class="w-96 p-6 shadow-lg bg-white rounded-xl">
-		<h1 class="text-3xl block text-center font-semibold"><i class="bi bi-person-fill" />Login</h1>
+		<h1 class="text-3xl block text-center font-semibold"><i class="bi bi-person-fill" />Got an account?</h1>
 		<hr class="mt-3" />
 		<div class="mt-3">
 			<label for="username" class="block text-base mb-2">Username</label>

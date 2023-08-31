@@ -5,10 +5,13 @@ usable, but simple), and the design will be inspired by similar websites (very
 inspired by <a href="https://www.organizze.com.br/">Organizze</a> and <a
 href="https://akaunting.com/">Akaunting</a>). 
 
+For now development is slowed down because my current job is keeping me busy
+for 98% of my days.
+
 ## About the name
 
 Turns out there is already a <a href="https://monnify.com/">Monnify</a> out
-there. This project is in no way related to them. I've came up with this name
+there. This project is in no way related to them. I've come up with this name
 just to have a name on this project and that's all this is.
 
 ## Disclaimer

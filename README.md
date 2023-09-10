@@ -8,6 +8,7 @@ href="https://akaunting.com/">Akaunting</a>).
 For now development is slowed down because my current job is keeping me busy
 for 98% of my days. Also depression is hitting me hard these days lol.
 
+
 ## About the name
 
 Turns out there is already a <a href="https://monnify.com/">Monnify</a> out

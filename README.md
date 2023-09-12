@@ -5,8 +5,8 @@ usable, but simple), and the design will be inspired by similar websites (very
 inspired by <a href="https://www.organizze.com.br/">Organizze</a> and <a
 href="https://akaunting.com/">Akaunting</a>). 
 
-For now development is slowed down because my current job is keeping me busy
-for 98% of my days. Also, depression is hitting me hard these days lol.
+I know it has been a while but I WILL finish this, just depression is hitting
+me hard.
 
 ## About the name
 

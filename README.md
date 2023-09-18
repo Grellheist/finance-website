@@ -5,9 +5,6 @@ usable, but simple), and the design will be inspired by similar websites (very
 inspired by <a href="https://www.organizze.com.br/">Organizze</a> and <a
 href="https://akaunting.com/">Akaunting</a>). 
 
-I know it has been a while but I WILL finish this, just depression is hitting
-me hard.
-
 ## About the name
 
 Turns out there is already a <a href="https://monnify.com/">Monnify</a> out

@@ -8,6 +8,8 @@ href="https://akaunting.com/">Akaunting</a>).
 I was going to use Drizzle and stuff but I'm considering just using Supabase
 for everything.
 
+Will resume this project this weekend. 
+
 ## About the name
 
 Turns out there is already a <a href="https://monnify.com/">Monnify</a> out

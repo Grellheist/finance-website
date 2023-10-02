@@ -5,10 +5,11 @@ usable, but simple), and the design will be inspired by similar websites (very
 inspired by <a href="https://www.organizze.com.br/">Organizze</a> and <a
 href="https://akaunting.com/">Akaunting</a>). 
 
-I was going to use Drizzle and stuff but I'm considering just using Supabase
-for everything.
+I was going to make it usable, with an actual finance app that people can use,
+but it has been too long that I've put this project on hold, and I'm no longer
+interested in finishing it.
 
-Will resume this project this weekend. 
+That being said, this all can change in the (near or not so near) future.
 
 ## About the name
 
